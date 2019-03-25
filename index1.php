@@ -25,7 +25,7 @@ $query = "INSERT INTO user_validation(u_mail, username, password)
             <label for="password">Password</label>
             <input type="password" name="pass">
 
-            <input type="submit" value="LogIn" name="submit">
+            <button type="submit" value="LogIn" name="submit">
         </form>
 </body>
 
